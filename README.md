@@ -1,6 +1,6 @@
 # Island-Automation
 
-Island route for the Island Sanctuary Automation plugin.
+Island routes for the Island Sanctuary Automation plugin.
 
 -  Open the plugin using /visland
 -  Drop down the Gathering Routes
