@@ -18,12 +18,14 @@ All routes are using a starting /coord which can be found in the name of the rou
 
 ### [Clam\Fish](./routes/1002a-Clam\Fish%20[coord%2017.7%2010.3]%20(under%20water).json)
 `/coord 17.7 10.3`
-<br>
+
 *Under water.*
 <br>
 <br>
 
 ### [Clay](./routes/1003a-Clay%20Route%20[coord%2023.2%2025.9].json)
+`/coord 23.2 25.9`
+
 *High amount of nodes.*
 <br>
 <br>
